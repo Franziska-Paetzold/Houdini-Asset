@@ -1,6 +1,12 @@
 Progress
 
-13.09.2019 (4,5h/4,5h/32h)
+## 14.09.2019 (4h/8,5h/32h)
+### Modeling
+- add feet and legs
+![progress2](https://user-images.githubusercontent.com/22836416/64906563-7c704500-d6e8-11e9-89dc-8951956bb8d6.png)
+
+
+## 13.09.2019 (4,5h/4,5h/32h)
 ### Modeling
 - set background images: https://www.youtube.com/watch?v=RK5j3ZV0npY
 - basic torus
