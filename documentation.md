@@ -1,7 +1,11 @@
 Progress
 
-## 14.09.2019 (4h/8,5h/32h)
+## 14.09.2019 (7h/11,5h/32h)
 ### Modeling
+- head and face: https://www.sidefx.com/tutorials/symmetry/
+![progress3](https://user-images.githubusercontent.com/22836416/64917696-27d5d400-d793-11e9-91bb-3e6ac35faee2.png)
+
+
 - add feet and legs
 
 ![progress2](https://user-images.githubusercontent.com/22836416/64906563-7c704500-d6e8-11e9-89dc-8951956bb8d6.png)
