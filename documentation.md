@@ -1,8 +1,15 @@
 Progress
+## 15.09.2019 (2/11,5/36)
+### Modeling
+- head (+cheeks)
+
+![progress4](https://user-images.githubusercontent.com/22836416/64918870-5f00b100-d7a4-11e9-8676-c7710819473e.png)
+
 
 ## 14.09.2019 (7h/11,5h/32h)
 ### Modeling
 - head and face: https://www.sidefx.com/tutorials/symmetry/
+
 ![progress3](https://user-images.githubusercontent.com/22836416/64917696-27d5d400-d793-11e9-91bb-3e6ac35faee2.png)
 
 
