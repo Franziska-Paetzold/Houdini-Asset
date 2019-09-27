@@ -1,7 +1,22 @@
 Progress
 
-## 23.09.2019 (1,5h/19h/36h)
+## 27.09.2019 (2h/22h/32h)
+### Rigging 
+- creating subnet
+- problem of displaying the sheep body, without that problem fix I can't go on
+--> changed to technical viewport - for some reason the sheep body is visible again
 
+
+### Modeling
+- creating forgotten tail
+
+![progress6](https://user-images.githubusercontent.com/22836416/65748717-d9b2c000-e104-11e9-9f96-0349fde0f417.png)
+
+## 24.09.2019 (1h/20h/32h)
+### Rigging 
+- getting a better overview: https://www.sidefx.com/learn/collections/rigging-series/ (much  better tutorial)
+
+## 23.09.2019 (1,5h/19h/32h)
 ### Rigging
 - first rigging impressions, watched the horse rig collection: https://www.sidefx.com/learn/collections/horse-rig/
 
@@ -12,7 +27,7 @@ Progress
 ![progress5](https://user-images.githubusercontent.com/22836416/65441336-869dec00-de2a-11e9-87d2-5b0b9b407038.png)
 
 
-## 15.09.2019 (4,5h/17,5h/36h)
+## 15.09.2019 (4,5h/17,5h/32h)
 ### Modeling
 - ear
 
