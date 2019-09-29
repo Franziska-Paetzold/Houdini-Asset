@@ -1,10 +1,36 @@
 Progress
 
-## 27.09.2019 (2h/22h/32h)
+## 29.09.2019 (1h/30,5h/32h)
+
+- adjusting parameters field
+
+![progress8](https://user-images.githubusercontent.com/22836416/65827955-fa5e4f80-e295-11e9-99e8-44c9e826271b.png)
+
+- something failed...
+
+![progress9](https://user-images.githubusercontent.com/22836416/65828011-604ad700-e296-11e9-844a-5a205286fd2e.png)
+
+- searching for the problem
+
+- create readme.md
+
+
+
+## 28.09.2019 (2/27,5/32)
+### Rigging
+- connecting spine rig to model torus.
+- a lot of Houdini crashes makes it hard to reach any progress at this point
+
+## 27.09.2019 (5,5h/25,5h/32h)
 ### Rigging 
 - creating subnet
 - problem of displaying the sheep body, without that problem fix I can't go on
 --> changed to technical viewport - for some reason the sheep body is visible again
+
+- spine & tail 
+- at this point houdini crushes very often... 
+
+![progress7](https://user-images.githubusercontent.com/22836416/65826621-cb8dac80-e288-11e9-8b8f-6e1886807c98.png)
 
 
 ### Modeling
