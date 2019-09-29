@@ -1,6 +1,6 @@
 Progress
 
-## 29.09.2019 (1h/30,5h/32h)
+## 29.09.2019 (3,5h/31h/32h)
 
 - adjusting parameters field
 
@@ -11,6 +11,7 @@ Progress
 ![progress9](https://user-images.githubusercontent.com/22836416/65828011-604ad700-e296-11e9-844a-5a205286fd2e.png)
 
 - searching for the problem
+- disconnecting everything, checking all connections and values
 
 - create readme.md
 
