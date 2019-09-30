@@ -1,6 +1,6 @@
 Progress
 
-## 30.09.2019 (6h/37h/32h)
+## 30.09.2019 (7h/38h/32h)
 
 - searching for the problem
 - disconnecting everything from spine rig, checking all connections and values
@@ -12,7 +12,6 @@ Progress
 - this finally works, it's pretty cool to see something finally happening.
 - reorganization of groups in sheep_body
 
--35:47
 
 ## 29.09.2019 (3,5h/31h/32h)
 
