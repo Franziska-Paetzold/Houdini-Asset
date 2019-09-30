@@ -1,6 +1,6 @@
 Progress
 
-## 30.09.2019 (7h/38h/32h)
+## 30.09.2019 (8h/39h/32h)
 
 - searching for the problem
 - disconnecting everything from spine rig, checking all connections and values
@@ -11,6 +11,8 @@ Progress
 - ok, what I recognized is, that the connect geo group is on the right place if it keeps its position by parenting. that's why and because of the groups of the spine are not working right (they display the whole sheep model and not the selected parts), I'm going to create the groups and the geos once again. 
 - this finally works, it's pretty cool to see something finally happening.
 - reorganization of groups in sheep_body
+
+- proxies for feet and legs
 
 
 ## 29.09.2019 (3,5h/31h/32h)
