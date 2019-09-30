@@ -24,3 +24,5 @@ During modelling the different body part I became more confident because I exper
 - feel more confident to use expressions in parameter fields
 - some tests and fixes needed, for instance the master rotation 
 - learned a lot about  parameters in houdini
+
+- controles and rig for the tail, the ears, eyes, jaw...
