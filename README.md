@@ -10,19 +10,12 @@ right click on the subnetwork > Parameters and Channels > Parameters...
 
 To model the sheep I drew small sketches, followed by mostly try and error modelling in Houdini. To rig the model I mainly used the [SideFX rigging series](https://www.sidefx.com/learn/collections/rigging-series/).
 
-You can see the project progress in the blog.md. For following future development check [this repo](https://github.com/Franziska-Paetzold/Houdini/).
+If you are interested to see the project progress, you can find it in the [blog.md](./blog.md). For following future development check [this repo](https://github.com/Franziska-Paetzold/Houdini/).
 
 
-- write what you can do 
-- discussion, what i learned...
+## Discussion
 
-During modelling the different body part I became more confident because I experienced the use of different tool. I understood Houdinis strukture better and with the time I knew where to search for the tools I was looking for. Looking back, modelling with basic knowleadge of rigging would happen a little bit different, because I now know that I need some more seperated primitives here or there.
+During modelling the different body part I became more confident because I experienced the use of different tools. I understood Houdinis structure better and with the time I knew where to search for the tools I was looking for. Looking back, modelling with basic knowleadge of rigging would happen a little bit different, because I now know that I need some more seperated primitives here or there. 
+All in all I learned a lot about  parameters in Houdini and feel more confident to use expressions in parameter fields
 
-- some values are not clear, I would keep track of this the next time. to become more confident in doing all everything from bones to constraints on my own... 
-
-- to work fully independently on it ...
-- feel more confident to use expressions in parameter fields
-- some tests and fixes needed, for instance the master rotation 
-- learned a lot about  parameters in houdini
-
-- controles and rig for the tail, the ears, eyes, jaw...
+The projects result could be improved by some more tests of the rig functionality and some fixes are needed, for instance the master rotation. Also some more controls could be added and a rig for the tail, the ears, eyes and jaw.
