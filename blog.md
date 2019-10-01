@@ -1,5 +1,9 @@
 Progress
 
+## 01.10.2010 (3h/43h/32h)
+
+- leg rigs
+
 ## 30.09.2019 (9h/40h/32h)
 
 - searching for the problem
