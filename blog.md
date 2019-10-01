@@ -1,6 +1,6 @@
 Progress
 
-## 01.10.2010 (12h/52h/32h)
+## 01.10.2010 (14h/54h/32h)
 
 - leg rigs
 - adding IKs to legs
@@ -13,6 +13,17 @@ Progress
 - Houdini crashes and crashes
 
 - wool doesn't look toooo good on body, tail and legs, that's why they get skin material for now
+
+- render images
+- update README.md
+
+
+![failed_wool](https://user-images.githubusercontent.com/22836416/65989005-2db50000-e489-11e9-9025-12d616696ba1.png)
+![final_1](https://user-images.githubusercontent.com/22836416/65989007-2e4d9680-e489-11e9-9160-3e3ce895204f.png)
+![display_all](https://user-images.githubusercontent.com/22836416/65989009-2ee62d00-e489-11e9-9dc3-2776f30f37a7.png)
+![display_just_proxy](https://user-images.githubusercontent.com/22836416/65989020-33124a80-e489-11e9-9ef2-4409a032978d.png)
+![display_just_rig](https://user-images.githubusercontent.com/22836416/65989022-33aae100-e489-11e9-93cb-37f0557df899.png)
+![display_rig](https://user-images.githubusercontent.com/22836416/65989025-34dc0e00-e489-11e9-917b-6d2caa48aacb.png)
 
 
 ## 30.09.2019 (9h/40h/32h)
