@@ -1,8 +1,19 @@
 Progress
 
-## 01.10.2010 (3h/43h/32h)
+## 01.10.2010 (12h/52h/32h)
 
 - leg rigs
+- adding IKs to legs
+- legs not working correctly 
+- redoing leg rigs...
+- new leg rig is working 
+- Houdini always crashes again.. 
+- replace all leg rigs 
+- add materials
+- Houdini crashes and crashes
+
+- wool doesn't look toooo good on body, tail and legs, that's why they get skin material for now
+
 
 ## 30.09.2019 (9h/40h/32h)
 
