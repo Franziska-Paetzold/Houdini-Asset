@@ -1,6 +1,6 @@
 Progress
 
-## 30.09.2019 (8h/39h/32h)
+## 30.09.2019 (9h/40h/32h)
 
 - searching for the problem
 - disconnecting everything from spine rig, checking all connections and values
