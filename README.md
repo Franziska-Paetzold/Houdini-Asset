@@ -25,7 +25,7 @@ The projects result could be improved by adding controls and a rig for the tail,
 ![sheep1](https://user-images.githubusercontent.com/22836416/65989027-360d3b00-e489-11e9-9796-aae959943c2f.png)
 ![sheep2](https://user-images.githubusercontent.com/22836416/65989036-39082b80-e489-11e9-9a22-e60428a56f1d.jpeg)
 
-Unfortunately, the eye-white is not cositent and will always berendered a  little bit different:
+Unfortunately, the eye-white is not cosistent and will always be rendered a  little bit different:
 
 ![sheep3](https://user-images.githubusercontent.com/22836416/65989039-3a395880-e489-11e9-9618-510ca2701c07.png)
 ![sheep4](https://user-images.githubusercontent.com/22836416/65989040-3ad1ef00-e489-11e9-9d09-5083907f26b1.png)
